@@ -76,5 +76,5 @@ config := mylogger.Config{
    Error	 错误级日志	    mylogger.Error("请求失败")
    InfoContext	带 Context 的信息日志	mylogger.InfoContext(ctx, "请求完成")
    ....
-4. 反馈与问题
+## 反馈与问题
     提交 [GitHub 问题](https://github.com/LeeCodeNull/mylogger/issues) 或 [Pull Request](https://github.com/LeeCodeNull/mylogger/pulls)。
