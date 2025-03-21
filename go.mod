@@ -1,4 +1,4 @@
-module mylogger
+module github.com/LeeCodeNull/mylogger
 
 go 1.24.1
 
