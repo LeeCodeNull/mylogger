@@ -16,7 +16,7 @@
 ## 安装
 
 ```bash
-go get github.com/LeeCodeNull/mylogger  # 替换为你的仓库地址
+go get github.com/LeeCodeNull/mylogger
 ```
 ## 快速开始
 ```go
